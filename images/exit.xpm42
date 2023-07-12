@@ -1,0 +1,248 @@
+!XPM42
+80 80 166 2 c
+   #000000FF
+.  #031A00FF
+X  #1C1C1CFF
+o  #032400FF
+O  #032900FF
++  #273714FF
+@  #331E24FF
+#  #092C26FF
+$  #0F3F36FF
+%  #252B2AFF
+&  #2E292EFF
+*  #38302FFF
+=  #263238FF
+-  #573012FF
+;  #344C1CFF
+:  #33691EFF
+>  #1A4821FF
+,  #3E5A21FF
+<  #2D4F32FF
+1  #14662CFF
+2  #2F6B31FF
+3  #2C6239FF
+4  #2E7D32FF
+5  #367C39FF
+6  #6B5315FF
+7  #5B750BFF
+8  #405B22FF
+9  #466525FF
+0  #4F712AFF
+q  #50732BFF
+w  #587E2FFF
+e  #5A7F30FF
+r  #1F2858FF
+t  #3E3546FF
+y  #2C397EFF
+u  #1F4D45FF
+i  #165A4CFF
+p  #28464AFF
+a  #2F5454FF
+s  #315C52FF
+d  #3D6040FF
+f  #29754FFF
+g  #286F58FF
+h  #3E6956FF
+j  #316358FF
+k  #424242FF
+l  #506F53FF
+z  #4C7850FF
+x  #4E6E60FF
+c  #407560FF
+v  #457F65FF
+b  #517763FF
+n  #637F67FF
+m  #73647DFF
+M  #BF360CFF
+N  #DD2C00FF
+B  #ED1C24FF
+V  #827717FF
+C  #B26A00FF
+Z  #9C5A3CFF
+A  #FF7E00FF
+S  #8D5342FF
+D  #AC7048FF
+F  #E57373FF
+G  #358838FF
+H  #558B2FFF
+J  #578F38FF
+K  #638D35FF
+L  #6E9D3BFF
+P  #00CF03FF
+I  #0CCA12FF
+U  #3D8D41FF
+Y  #3BB54AFF
+T  #2C8560FF
+R  #44854EFF
+E  #4B8A5DFF
+W  #43A047FF
+Q  #4CAF50FF
+!  #53A152FF
+~  #7CAF42FF
+^  #7CB342FF
+/  #79B248FF
+(  #65A858FF
+)  #70AE53FF
+_  #4F8E62FF
+`  #5F9664FF
+'  #56976CFF
+]  #5F9E73FF
+[  #628868FF
+{  #629D71FF
+}  #7C9A7DFF
+|  #58A16BFF
+ . #5CA771FF
+.. #5EA974FF
+X. #5AA779FF
+o. #5EAA79FF
+O. #68AD69FF
++. #66BA6AFF
+@. #69A477FF
+#. #61AC76FF
+$. #63AD7AFF
+%. #66B07BFF
+&. #6BB37CFF
+*. #8F8118FF
+=. #81A331FF
+-. #FFB300FF
+;. #FFC107FF
+:. #FFC20EFF
+>. #FDD835FF
+,. #FFEB3BFF
+<. #81BE53FF
+1. #879672FF
+2. #81967EFF
+3. #B28F63FF
+4. #EDAC4AFF
+5. #86C04FFF
+6. #8BC34AFF
+7. #8EC96CFF
+8. #FFEE58FF
+9. #FFF176FF
+0. #8D7C99FF
+q. #589682FF
+w. #7BAD80FF
+e. #6AB38AFF
+r. #70B688FF
+t. #72B995FF
+y. #76BB98FF
+u. #79BEA5FF
+i. #7EC2ADFF
+p. #7CC2B7FF
+a. #76A3DEFF
+s. #8DA391FF
+d. #95BE9AFF
+f. #99B0BFFF
+g. #B0A1BAFF
+h. #EF9A9AFF
+j. #F48FB1FF
+k. #D6A7BCFF
+l. #81C784FF
+z. #94C792FF
+x. #AED581FF
+c. #A7D197FF
+v. #84C7BBFF
+b. #ACD0AFFF
+n. #FFF59DFF
+m. #C5E1A5FF
+M. #B5A5D5FF
+N. #8ACCC9FF
+B. #8DCFD3FF
+V. #8ED0D2FF
+C. #90D0D6FF
+Z. #94D4DDFF
+A. #B4C5D1FF
+S. #96D6E4FF
+D. #98D8E7FF
+F. #97D7E8FF
+G. #98D7E9FF
+H. #99D9EAFF
+J. #CADACBFF
+K. #E7D9D4FF
+L. #DCEDC8FF
+P. #FFF9C4FF
+I. #EFE6DDFF
+U. #D0DDE4FF
+Y. #F1F4F7FF
+T. #FFFFFFFF
+d.[ [ ` ` ` $.%.%.&.&.&.$.o.$.o.$.&.&.e.&.&.&.&.&.[ %.#.$.%.2.$.s.#.n %.#.s. . .o.$.$.%.%.%.%.o.o.$.%.&.&.%.%.%.%.o.$.%.%.%.&.&.%.%.o.$.$.$.o.$.%.#.%.P ..$.%.P 
+J.w.` ` ` ` ` $.$.%.&.&.$.' $.%.$.&.] &.&.&.&.&.%.$.n n #.$.n $.n n n #.$.o.s.$.%.%.$.o.o.$.o.X.o.o.$.%.&.o.%.%.o.%.o.%.o.%.%.&.&.$.%.$.o.o.o...%.%.%.P e.o.o.$.
+J.w.d.d.` $.$.$.%.&.&.c $.' _ '  .] ] &.{ &.&.&.%.%.%.#.$.n b s.#.n %.%.$.&.}  .o.o.$.$.$.o.o.X.o.o.X.o.%.%.%.%.o.o.%.o.o.%.%.&.$.&.$.$.o.$...$.$. .&.Y o.o.#.o.
+d w.` w.` $.%.$.&.&.&.c E  .' _ ] q.q.] ] &.&.%.$.$.$.$.#.#.&.$.#.2.%.%.%.&.b @.$.o.$.$.%.$.$.o.o.X.X.$.o.%.o.&.o.o.o.%.o.o.%.&.#.&.$.$.$.X.$.P  . . .I ! ..o.G 
+w.l ` $.$.$.$.$.%.&.j h E F F F q.] ] q.q.] ] ] $.$.$.$.$.%.$.$.%.2.&.&.%.&.&.@.o.o.o.$.%.&.X.X.o.X.o.o.%.$.o.o.o.X.o.$.%.o.#.&.P &.$.P $.$... . . . . . .%.o.%.
+[ z.` o.e.$.&.o.s E c E E E F X.q.] ] q.] ] ] ] r.] $.&.%.#.&.$.#.2.%.%.$.&.%.o.$.$.  $.%.%.%.o.X.  X.  $.o.%.%.B %.B %.X. .%.%. .&.Y &.I #.G P  . . .G o.o.o.%.
+[ z z $.#.$.%.v E E q.q.q.q.E E ] ] q.] ] E E ] ] &.$.&.&.&.%.%.#.&.[ $.o.o.%.  &.o.  $.  o.o.$.o.  o.  o.  e.B B B B B o.%.$. . . .P #.P #.$. . . .o...o.o.o.&.
+` z z &.$.#.&.c E c ] ] ] ] ] ] ] ] ] E E F E ] ] &.&.&.$.$.$.$.$.$.#.$.$.o.$.o.  M N N   o.%.%.$.N N N   o.#.B B B B B %.o. . . . . .Y P G  . . . . ...%.%.%.&.
+$.` $.$.$.%.s c c E F F  .] q.E E E ] E E F F ] ] E &.&.$.&.$.$.&.#.$.$.$.$.o.o.N :.;.N H H o.H H N N ;.M $.$.$.B B B $.$.$.$. . . .G P P @.$. . . .&.#.#.&.&.&.
+$.%.$.o.%.%.c c E E E F q.q.q.E q.F F E E ] ] ] ] E E ] &.%.&.$.#.$.#.$.#.#.o.o.M :.;.N ^ 6.H 6.^ N N ;.M $.$.#.o.B %.$.#.%.$.G  .#.I G Y X.o.#. .@.%.&.%.%.$.&.
+$.o.o.$.%.%.s c c c E E E E E E q.F F q.] q.] ] E ] E E &.&.&.&.&.$.$.$.o.o...H H M N N 6.6.6.6.6.N N N $.$.#.#.%.%.$.$.%.$. .#.#.%.$.$.o.o.o.X. .$.&.&.%.%.$.%.
+o.%.%.$.%.s s s c c c c c E c c ] E F ] ] q.] q.] E E q.] &.$.&.&.%.$.$.#.o.o.H ^ ^ ^ / ~ 6.6.6.6.^ ^ ^ $.%.&.e.%.%.$.$.r.&.%.$.%.$.o. .X.o.o.$...r.#.#.#.%.%.$.
+o.$.o.%.%.t %.s c s c c c c s c q.E E E ] q.] E E E ] ] q.] ] &.#.$.$.&.$.H H 6.5.6.6.6.6.6.6.6.6.b <.6.H $.%.%.$.$.%.&.%.&.&.i %.$.$.%.o.X.o.$.$.P #.$.P $.&.$.
+$.o.o.%.$.&.s s s s c s s s c ] E E E q.E E E q.E c q.q.] { E &.&.%.$.$.#.O.6.6.6.L L ^ L.L.L.L.L.s.6.6.H #.$.$.&.o.%.&.&.&.i i &.$.$.%.$.o.$.#.#.P %.P $.&.$.&.
+$.$.o.$.$.= = s s s F F c s c E c c c E E ] E E s @.] F F  .E &.&.o.$.%.#.^ 6.[ J L L.L.[ L.L.L.L.2.6.H H &.$.$.&.%.%.%.&.j g ! %.@.#.e.$.$.#.o.P P  .P ..P %.G 
+%.$.o.%.= = p p s s F F s c c c s c c c c c c c ] E E E F E E _ &.%.$.$.%.^ 6.2.L L.7.x.} 7.x.x.7.1.6.H $.&.$.#.$.&.%.%.i f T ! i %.#.$.$.X.#.#.P  . . .P Y $.%.
+e.$.$.= = F = = s p s s c s s s F F s c c c s E E E E ] E _ E %.&.&.n H J =.<.} m.L.L.L.s.L.L.L.I.n L H H $.#.$.$.&.#.$ T f f ! f $ %.&.#.$.$.G  . . . . .! G &.
+%.%.&.= = p = p = p s s = s p s F s s s s c E E E E ] E _ _ &.%.&.&.2.<.^ =.<.s.K m.L.L.} L.L.n [ [ L 1.n H #.o.$.$.# T # T ! f f f f &.%.%.o.o.o. . . .P %.%.&.
+%.%.= = = = p = = = p s p = = = = s s s s s c F E c c c _ | c o.&.$.} +.6.^ 5.[ L c.n L.2.n L.[ L.2.( [ ^ H $.%.$.&.&.&.u u p # T u u u %.$. .X.o.o. .%.%.%.&.r.
+o.%.#.= = p a = = p = = p = = = p = p p s c F F c c c s ' o.&.$.&.#.} 5.6.[ [ [ 6.} n L.x n L.[ c.b <.1.^ H n n e.&.&.j f f f f T u T &.&.%.%.$..... .%.&.&.i.v.
+$.o.%.%.= = p = F = = = = = = = = = = = p s F F s z a p #.&.#.$.#.#.] #.O.@.J | 6.@.[ n b b [ r.z.` $.{ / } #.%.[ %.j ! T f u T u u f &.y.y.y.t.i.e.e.y.e.e.p.N.
+o.%.%.h = = = p F F = = = p = = = = = = p p p p s s s s &.#.$.$.#.#.#.#.O.O.#...[ @.} x x ' x z.#.{ n x H [ %.&.&.# T % u f f T u T f j ! y.i.y.i.y.t.i.N.i.D.D.
+o.$.%.%.%.= = = = F = = p p = p = = = = = p = = = p &.&.&. .$.#.$.#.$.$.$.#.#. .[  .<.| ` _ @.#.{ #.$.#. .@.%.&.r.% f u f f T ! ! % T % % D.H.D.H.D.D.S.F.D.D.y.
+%.o.%.&.&.= = = p = = = = = = = p = V *.= = = = = &.&.$.&.[  .#. .[ %.#.#. . .#. . . .@. .$... .#.#.$.$.#.#.%.&.&.% T f f % T f T u f f ! % H.Z.D.Z.Z.D.H.N.D.H.
+%.&.&.&.&.&.&.= = &.= = = = - 6 6 = V *.&.&.&.&.&.F F #.&.@.&.#.$.%. .$. . .$.$.$. ... . . . .$.#.$.$.#.$.$.%.y.S.D.u u % f u f u f f T f T % H.H.H.H.H.H.H.H.H.
+%.F F &.&.&.&.&.&.&.&.&.&.6 - 6 6 V V 3.&.F F F &.F &.F F 1.O.#.$.#.#.#. .$.#.$.#.$... ...&. . .$.#.$.$.$.&.&.&.D.p ! u f f j f f u f u % % H.H.H.H.H.H.H.H.H.H.
+F F &.&.r.&.F &.&.F &.&.&.6 6 - 6 V V *.&.&.F F &.&.&.&.&.F &.&.1.1.o.#. ...$.#.$. . .o.&.#.%...y.#.$.$.%.&.&.Z.u T j ! u T ! % T u T j f H.H.H.H.H.H.H.H.H.H.H.
+&.&.&.F &.F F F F &.&.&.&.6 6 6 V K 3.*.&.&.6.6.6.&.&.&.6.&.&.&.&.F  .#.#. . .$. . .$.&.y.%.e...%.#.$.#.&.t.i.i.v.% u f f % % j T f ! f T T H.H.H.H.H.H.H.H.H.H.
+F F F F &.&.&.&.&.&.&.&.6 6 6 6 V V V *.6.6.6.6.6.^ L 0 0 K <.@.&.&.&.F  .@.#.#.#. ...#.$.i.S.V.Z.%.%.e.o.$.e.Z.H.% f f u f u u T u f T f f % D.H.H.H.H.H.H.H.H.
+F &.&.F F &.&.&.F &.w.6 6 6 6 6 V V V *.6.6.:.6.L K , 0 K w L ~ { &.&.F &.&.&.#...#.#.%.t.Z.D.i.r.Z.Z.V.Z.F.S.D.% T % j j j ! u f u u % f f T u H.H.H.H.H.H.H.H.
+&.F F F &.&.F F F &.6 6 6 6 6 V V V V 6.=.;.;.:.2 w L =.8 + G K <.@.F F &.F 3.r.%.&.&.S.H.S.H.H.D.F.F.F.H.H.D.H.S.% f u ! % u T f f u u u f f % H.H.H.H.H.H.H.H.
+&.&.&.F &.&.&.6 6 6 *.7 *.V V V V V 6.6.q 9 ;.2 H L <.w U 2 2 <.&.&.&.F F F &.&.&.&.i.F.Z.H.D.H.D.D.D.F.H.H.H.H.D.T u f % u f f % f f T f ! = T H.H.H.H.H.H.H.H.
+&.F F &.&.F &.&.&.&.&.&.&.&.%.V ` V <.L L ~ 2 L L ~ 2 2 :.2 9 L ~ &.&.F &.&.&.y.y.v.N.D.H.H.H.H.1 1 H.H.H.H.H.H.! j T % T T % T u u u u % H.H.% H.H.H.H.H.H.H.H.
+&.&.F &.&.F F F &.F F &.&.%.r.z z [ L ~ 6.` ~ L 9 K 2 :.:.:.K L ^ =.&.&.&.i.u.v.u.v.D.G.H.T.T.G.1 1 Z H.H.H.H.H.% T u u T f % & @ H.H.H.S.y.y.Z.H.H.F.H.H.H.H.H.
+F r.&.&.&.&.F F &.&.F F &.F F z [ ` ~ ~ z ` L 0 :.5 2 2 2 ; e L 2 ^ &.i.v.v.i.Z.Z.G.H.H.T.J.1 1 1 1 H.H.H.H.H.H.H.H.H.H.H.G.@ & @ Z.H.H.Z.N.F.Z.y.F.S.H.H.H.H.H.
+F F F F &.&.&.&.&.&.&.&.&.&.` d.` } z ` w.L 9 :.:.:.5 5 w , 8 L L ^ v.N.v.D.D.D.G.F.F.H.H.        H.H.H.H.H.H.H.H.H.H.Z.B.t.@ t @ D.B.$.o.%.%.%.Z.F.H.H.H.H.H.H.
+&.&.$.&.&.&.&.&.&.&.F &.` w.` l &.z w.d.w.e e ~ :.5 ; q L 0 0 K K v.i.H.D.D.S.H.H.H.1 1 H.H.H.H.H.H.H.H.H.H.H.H.H.p.y.e.p.Z.& t @ %.$.$.%.$.$.%.Z.D.H.H.H.H.H.H.
+&.%.$.%.&.&.&.i &.&.[ 3.` d.b.w.9 x w.b.w.L Q W 0 0 2 K L K 2 + , L G.G.Z.H.H.T.T.H.1 1 Z H.H.H.H.H.H.H.H.H.H.S.S.C.p.p.N.$.* @ @ &.$.o.$.o.%.i.D.D.H.H.H.H.H.H.
+%.&.#.%.&.&.i i &.r.` ` ` ` w.J.d.` [ b.w.` z L L K ~ L L L L ~ ^ G.S.H.H.H.T.T.1 1 1 1 H.H.H.H.H.G.H.H.H.H.H.G.Z.$.$.$.#.$.* t t %.%.$.$.&.e.N.D.H.H.H.H.H.H.H.
+#.#.%.%.#.i T i %.%.` d.` z [ d.d.} [ b.` R } &.~ ~ r.L L L L D.G.S.H.H.H.H.H.          H.H.H.H.G.H.G.H.H.Z.D.G.&.$.#.$.%.&.&.e.y.t.e.e.e.y.u.H.D.D.H.H.H.H.H.H.
+$.$.@.$.%.j ! ! %.o.$.z ` ` z w.d.d.l b.w.w.w.&.^ &.&.&.L v.y.H.G.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.F.F.F.F.&.y.e.e.e.e.i.y.r.y.y.y.u.p.S.D.H.H.H.H.H.H.H.H.
+$.$.%.%.i T ! ! %.&.` ` z z l w.d.d.l ` ` d [ &.&.&.&.&.y.D.G.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.G.S.G.d.N.y.t.y.t.y.v.v.S.F.C.F.F.H.H.D.H.H.H.H.H.H.H.H.
+r.%.g T T T ! T i &.%.` J.d.d.z s.d.d w.w.z ` &.&.&.&.&.Z.G.v.D.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.G.H.H.S.p.F.F.F.F.D.G.Z.B.F.G.H.D.D.Z.H.H.H.H.Z H.H.H.H.
+%.&.T T f T T ! i &.%.` ` b.b.w.d w.< w.w.z &.o O o &.&.Z.&.S.D.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.G.F.S.Z.D.S.S.G.G.H.H.H.H.H.H.H.H.H.H.H.Z Z Z H.H.
+&.&.T f f f ! ! T i &.&.&.z w.w.< d w.[ ` &.&.o o &.&.&.&.D.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.G.G.H.H.H.H.H.G.H.H.H.H.H.H.H.H.H.H.H.Z Z k Z Z H.
+u f f f f f f f f f T &.&.&.$.z < ` < z &.$.&.o o o &.&.y.H.H.D.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.G.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.k =.k k Z Z 
+T f u f f u g.g.f p f $ &.&.$.%.e.] o.#.$.&.o o o o &.Z.F.&.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.G.H.G.H.H.H.G.H.G.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.k k k k k k Z 
+T f j T T A X g.f # f f $ %.$.$.#.o.X.$.$.&.&.. o O &.Z.&.D.D.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.  k k k k k k Z 
+# # u T T ! g.g.k.f # f T $ &.%.$.o.o.%.&.&.o O o . . &.Z.F.Z.D.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.y H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.k k k k k k Z Z 
+&.# u u u j g.g.0.0.j # # T # %.%.o.%.$.%.&.&.o o o . &.&.&.Z.S.F.H.H.S.H.D.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.y r H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.H.k k k H.H.k k Z 
+# j f u f f g.g.0.m j T u # &.%.o.$.o.%.3 $.&.. . o o &.&.&.&.%.t.y.D.D.H.H.H.H.H.H.D.H.H.H.H.H.F.H.H.H.G.H.y y H.H.H.H.H.D.H.H.H.H.H.H.P.P.D.H.H.H.H.H.H.k k k 
+j f u f f f f g.g.m g.m # &.&.%.%.%.%.%.3 > &.. o o o &.&.&.%.%.%.$.%.V.F.D.H.D.H.H.D.H.H.D.G.B.%.y.y.S.G.y y y y H.D.H.H.H.H.D.H.H.H.P.n.9.P.H.H.H.H.H.H.k k k 
+! u T T f u T T u u u f u # &.%.%.$.> > %.&.. o o o o o &.&.$.e.%.$.$.i.Z.D.D.D.H.D.H.H.D.S.y.Z.H.F.N.%.&.C -.-.C y.z.H.H.H.H.H.H.H.P.9.P.n.9.P.H.H.H.H.H.k k k 
+u u T u f u T T u f f f f u # # %.%.%.3 > . o o o o &.o &.%.o.%.#.%.%.o.&.Z.C.H.Z.D.D.D.y.S.G.D.Z.&.&.&.&.C T.9.C ..#.r.Z.: n.9.H.D.9.n.9.D.P.9.H.H.D.D.H.k k k 
+% j u f f f u T u T T f f f ! ! # %.%.&.&.o o o o . o &.o %.$.$.%. .%.%.%.&.&.y.y.S.D.H.S.N.B.&.&.&.&. . .C 9.T.C | x.x.: : 9.H.9.D.,.8.,.>.9.>.D.D.H.D.H.k k k 
+f ! f f f T T ! u T % T T f u T T &.&.&.o &.o O o o o o o &.%.$...$.%. .&. .%.%.$.%.&.&.$.$.$.%.&.[ &. .=.C ,.,.C | x.7.: ,.r.b.y.y.Z.,.r.b.>.&.&.&.Z.D.k Z.H.k 
+u f f u f T T ! ! u % T T u % % % &.&.&.O o &.o o o o o &.&.&.&.%.%. . . .&...o.$.%.$.$.$.e.%.&.#.} &. .=.=.=.=.~ | &.&.: %.W +.&.&.&.&.W +.&.&.&.&.&.&.k H.H.k 
+% f f % f f f f T T f % % % u u % o o o o . . o o o . o &.&.&.&.&. . . . .o. .$.$.$.$.o.[ $.$.$.%.s.$.%. .| | =.|  .&.&.7.e.&.W &.l.&.+.&.Q W &.&.&.&.&.k &.y.t 
+f f f f % T u f T T u f f f ! ! p o o &.o o o O o o o . O &.&.&.%.%. . . .o.o.%.#.$.o.$.2.$.%.$.#.2.%.$.&. . . . .&.F F &.: +.G 4 l.+.&.&.W &.&.6.6.=.&.&.k <.8 
+% T f % u T T u f f f f ! ! f T T o o . o &.o o o o O o . &.&.o.%.o.%. .o.o.$.o.$.$.#.$.2.#.#.$.@.n #.$.$.&.&.&.&.&.F F F %.: G x.&.&.+.&.W 6.6.6.6.<.<.L k 0 K 
+u % % u f u u f u f f f ! T % f T o o O o . &.o o o o o &.&.&.%.%. .....o.o.%.$.#.$.#.$.s.$.#.n n [ o.2.n &.$.&.&.h.h.F F &.: x.x.&.&.4 +.G 6.<.j.6.L L , 0 K w 
+u u f f f f f f % f f u f T % u u u % o o o o O o o o o o &.&.%.$.%.%.o.o. . .#.$.#.[ o.} n $.n o.2.#.n o.o.$.&.&.&.h.h.F &.: x.&.&.G G G 6.~ j.j.j.2 w L ~ , + 
+! ! u f f ! j u T % j f f u f f u &.&.&.o o o . o O o o &.o &.&.%.$.o.%.%.&.%.$.#.$.n @.x b %.n  .x o.s. .#.n [ &.&.h.: : : : : : P.P.&.<.6.0 9 j., w L ~ w R 2 
+! ! f T T ! f % T u u T u u u f % &.o o o &.o . o O O o o O &.&.%.%.%.%.%.%.&.&.%.#.{ { x x [ $.$.x @.b  .s.#.&.[ &.&.&.&.: : &.P.A.T.P.=.L L ~ 2 L L <.2 2 j.2 
+u u f T T f u % T % u T u u f u % &.o &.o o o o o o . &.. . o r.&.&.&.&.&.&.&.&.n s.} x x b b e.{ x [ b @.n @.%.&.&.&.&.&.&.&.P.f.A.Y.T.P.~ 6.6.=.L 9 K 2 2 j.j.
+f f u % % % u j T m f ! f f u T T o &.o o o o o o o . . &.o o &.&.&.&.&.&.7.&.n n #.@.n n x @.x n x { x x w.$.$.&.&.&.&.&.&.&.9.f.f.4.T.9.^ 2 2 L 0 2 5 2 2 5 ; 
+f f u u u u u u T m f ! f f f % T u o o o &.o o . o o o o o o o &.&.&.&.7.( ( &.&.$.X.X.n #.x x #.@.] x $.n $.$.&.&.x.x.: h.h.,.8.f.U.9.>.6.L L 9 2 j.j.5 5 e ; 
+f f f f f u u u g.m g.f f T f f % % o % o o o o o o o O o o &.o o 7.&.7.( ( &.7.7.&.$.#.#.#.[ $.$.#.x #.#.$.%.#.&.&.x.x.: : h.h.,.l.b.>.~ 0 ~ w w <.j.5 ; q L q 
+T T f f u ! ! g.g.g.g.g.u T u f % ! ! o . &.O o o o o o o &.&.&.7.( ( ( 7.( ( 7.( ( %.#.$.o.$.#.$.$.#.$.$.$.#.$.&.: : &.: : : F F +.&.6.~ ~ 6.L Q W q q : M.L K 
+j % u u j ! g.g.g.g.g.g.g.% % f . o T T . &.O o o o o o o o &.&.7.( ( 7.R R ( R ( &.&.&.&.%.&.#.#.#.%.#.#.$.%.&.&.&.: : : : : : F W +.&.6.6.6.6.6.L L K <.L M.L 
+u % ! j u f K.X g.X g.X K.f f f f f o o o o . . o o o o o o O o o &.7.( ( R R 7.( ( &.&.$.&.&.&.$.&.%.$.$.%.&.&.&.&.&.&.&.: l.&.+.&.Q W 6.6.M.6.6.=.L 0 0 K <.L 
+u % ! ! % u K.I.g.* g.I.K.f f u f f f f &.O o . o o O o o o &.&.&.7.7.7.R ( ( R 7.( ( &.&.&.%.$.@.&.%.$.#.$.%.$.&.&.&.&.&.: l.+.&.&.W &.6.6.M.M.L K 8 M.K e L <.
+f f % % p f k.g.g.g.g.g.k.k.g g o o o o o o o o o o o o &.&.7.7.&.&.7.D 7.( ( &.R 7.R n &.&.&.&.s.&.#.#.o.%.$.$.%.&.&.&.&.: &.&.+.&.W 6.^ 6.~ 2 2 w L L 8 + G K 
+f f u u 6.6.g.k.k.k.k.k.g.0.0.0.0.o o T % O O o o o o o o o &.7.( &.&.&.S 7.( ( Z &.&.2.&.&.&.&.} %.&.&.%.%.$.$.%.%.&.&.&.&.&.&.4 +.6.6.0 9 2 2 w M.L M.R 2 2 ^ 
+u f 6.6.6.6.g.g.g.g.g.g.0.0.0.0.0.0.% o o o O O o o o o o o 7.( ( ( R &.R 7 ( ( #.( %.2.&.&.&.&.n &.&.#.@.%.#.%.%.<.6.6.&.&.&.6.G 4 ^ L L M.2 L L ~ M.2 2 2 M.L 
+% T 6.6.2 6.g.g.g.g.g.g.0.0.0.0.0.0.o o o o o o o o o o o o 7.7.S 7 R ( 7 7 7 R 7.( %.s.&.&.n n n &.2.[ %.$.#.( ) 5.6.6.~ L 0 0 a.a.L ~ 6.M.M.L 9 K 2 2 2 G L L 
+u 6.~ 6.~ 2 2 g.g.g.g.g.g.s.0.0.0.m m &.7 o . O 7 o O O . 7 &.R 7 7.7 ( 7 S R 7 7.n ( 2.n &.n &.2.&.b &.$.&.@.<.5.2 6.L K , 0 K H L ^ L 2 2 L 0 2 M.2 2 2 M.M.L 
+6.6.0 9 2 2 e g.g.g.g.g.g.g.0.0.m m 7 g.g.7 . 7 o 7 o o O . &.7 &.7.7 7 7 S 7 7 7.n R x n &.n &.x &.s.&.&.n n <.5./ 3 a.a.a.~ , + a.a.=.L L 9 2 M.M.5 5 e , 8 L 
+~ L L ~ 2 L L ~ g.g.g.g.g.g.g.m 7 m 7 m 7 7 0.7 m o 7 O 7 o 7 7 %.7 7 7 7 7 7 7 S n n x x n &.&.x &.n &.1.<.6.n 9 2 2 w a.~ w U 3 2 a.9 <.a.w ^ 2 5 ; M.M.0 0 K 
+L ~ 6.6.^ L 9 K % & g.g.7 & g.g.g.7 g.7 g.m 7 7 m 7 7 o 7 7 7 7 7 7 7 7 7 7 7 7 7 7 x x x x &.[ x n x &.n ~ L L a.a.~ L ~ 2 2 a.2 9 L <.<.a.a.J 0 0 2 K L K 2 + 
